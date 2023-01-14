@@ -16,7 +16,7 @@ type MongoInstance struct {
 var mg MongoInstance
 
 const dbName = "hrms-api"
-const mongoURI = "mongodb+srv://duarty:bqVxNyaA0P3HtlLR@hrms-api.nbxdiz8.mongodb.net/?retryWrites=true&w=majority"
+const mongoURI = 
 
 type Employee struct {
 	ID     string
